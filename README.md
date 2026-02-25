@@ -21,5 +21,3 @@
   <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="25" height="25"/>
 </p>
 
-| [![Nguyensonfs's GitHub stats](https://github-readme-stats.vercel.app/api?username=bna2645&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bna2645&layout=compact&langs_count=8&theme=radical) |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
