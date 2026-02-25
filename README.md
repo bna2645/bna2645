@@ -1,26 +1,99 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ================= HEADER ================= -->
 
-<h1 align="center">⚡ Bạch Ngọc Anh ⚡</h1>
+<h1 align="center">Bạch Ngọc Anh</h1>
+<h3 align="center">Full-Stack .NET Developer | React & TypeScript</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Full-Stack+.NET+Developer;React+%2B+TypeScript+Enthusiast;Clean+Architecture+Advocate;Building+Scalable+Systems+🚀" />
+  <a href="mailto:anhbach043@gmail.com">Email</a> • 
+  <a href="https://github.com/bna2645">GitHub</a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bna2645&label=PROFILE+VIEWS&color=0fffc1&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=4"/>
+  <img src="https://komarev.com/ghpvc/?username=bna2645&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-# 🧠 SYSTEM PROFILE
+## 👋 About Me
 
-```bash
-> Name: Bạch Ngọc Anh
-> Role: Full-Stack .NET Developer
-> Focus: Backend Architecture + Modern Frontend
-> Current Mission: Master React & System Design
-> Status: Actively Building 🚀
+I am a Full-Stack Developer specializing in **.NET backend systems and modern React frontend applications**.
+
+I focus on building:
+- Scalable REST APIs
+- Clean Architecture-based systems
+- Maintainable and production-ready applications
+
+Currently improving:
+- Advanced React patterns
+- System design & scalability
+- Performance optimization
+
+---
+
+## 🛠 Technical Skills
+
+### Backend
+- ASP.NET Core
+- Entity Framework Core
+- RESTful API Design
+- Clean Architecture
+- Microservices
+- Redis
+- RabbitMQ
+- MySQL
+
+### Frontend
+- ReactJS
+- TypeScript
+- Redux Toolkit
+- React Query
+- Ant Design
+- HTML / CSS / Bootstrap
+
+---
+
+## 📌 Selected Projects
+
+### Document Management System
+**Tech:** .NET, EF Core, MassTransit, Redis  
+- Hierarchical folder structure
+- File upload & management
+- Authentication & authorization
+- Scalable architecture design
+
+### Personal Task Manager (Full-Stack)
+**Tech:** React, TypeScript, .NET  
+- CRUD operations
+- Filtering & search
+- API integration
+- Clean and modular structure
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bna2645&show_icons=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bna2645&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Career Objective
+
+Seeking opportunities to contribute as a **Full-Stack Developer** where I can:
+
+- Build scalable backend systems
+- Develop modern React applications
+- Improve system architecture
+- Deliver clean and maintainable code
+
+---
+
+## 📫 Contact
+
+Email: **anhbach043@gmail.com**  
+Location: Vietnam  
+Open to remote opportunities
+
+---
